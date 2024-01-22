@@ -1,0 +1,14 @@
+{
+  "tokenID": "12",
+  "name": "Aeliana, Keeper of the Sacred Flame",
+  "description": "Aeliana, robed in white and gold, is the revered Keeper of the Sacred Flame. With a tome of ancient knowledge in one hand and the ethereal flame dancing above the other, she is a beacon of wisdom and enlightenment. This artwork captures her moment of quiet contemplation, the weight of her duty as serene as the expression on her face.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/13.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/13.jpg",
+  "attributes[Strength]": "73",
+  "attributes[Agility]": "85",
+  "attributes[Intelligence]": "86",
+  "attributes[Wisdom]": "87",
+  "attributes[Charisma]": "90",
+  "attributes[Armor Type]": "Celestial Weave",
+  "attributes[Weapon]": "Ash Staff"
+}

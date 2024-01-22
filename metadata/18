@@ -1,0 +1,14 @@
+{
+  "tokenID": "18",
+  "name": "Tharand, the Mountain's Shield",
+  "description": "Tharand, the venerable dwarf warrior known as the Mountain's Shield, is the embodiment of the ancient warrior tradition of his people. Adorned in armor crafted from the heart of the mountain, he wields his axe and sword with unmatched skill. This artwork captures Tharand's steadfast gaze and the regal bearing of a true defender of the realm.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/19.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/19.jpg",
+  "attributes[Strength]": "91",
+  "attributes[Agility]": "82",
+  "attributes[Intelligence]": "82",
+  "attributes[Wisdom]": "84",
+  "attributes[Charisma]": "80",
+  "attributes[Armor Type]": "Dwarven Steel",
+  "attributes[Weapon]": "Axe and Sword"
+}

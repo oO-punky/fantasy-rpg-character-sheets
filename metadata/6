@@ -1,0 +1,14 @@
+{
+  "tokenID": "6",
+  "name": "Eldrin the Elven Ranger",
+  "description": "Eldrin the Elven Ranger stands vigilant, a guardian of the ancient woods. With his sharp spear and keen eyes, he protects the realm from those who dare to disrupt its sacred balance. This artwork encapsulates Eldrin's dedication and his harmony with the natural world.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/07.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/07.jpg",
+  "attributes[Strength]": "83",
+  "attributes[Agility]": "91",
+  "attributes[Intelligence]": "84",
+  "attributes[Wisdom]": "75",
+  "attributes[Charisma]": "78",
+  "attributes[Armor Type]": "Heavy Tunic",
+  "attributes[Weapon]": "Elven Spear"
+}

@@ -1,0 +1,14 @@
+{
+  "tokenID": "15",
+  "name": "Aurelia, the Windborne Grace",
+  "description": "Aurelia, known as the Windborne Grace, is the embodiment of elegance and poise. Adorned in a gown of white silk and golden ornaments that glisten under the sun, she is revered for her wisdom and gentle strength. This digital art captures her with flowing hair, as if caressed by a gentle breeze, symbolizing her connection with the air element.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/16.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/16.jpg",
+  "attributes[Strength]": "73",
+  "attributes[Agility]": "82",
+  "attributes[Intelligence]": "89",
+  "attributes[Wisdom]": "85",
+  "attributes[Charisma]": "86",
+  "attributes[Armor Type]": "Enchanted Silk",
+  "attributes[Weapon]": "None"
+}

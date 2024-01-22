@@ -1,0 +1,14 @@
+{
+  "tokenID": "5",
+  "name": "Aeria Swiftwind",
+  "description": "Aeria Swiftwind is a warrior of the skies, swift and agile, with the grace of the wind behind every motion. Equipped with her feathered armor and a spear sharp as talons, she embodies the spirit of the avian. This digital art captures her poised to strike, her gaze as piercing as her weapon.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/06.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/06.jpg",
+  "attributes[Strength]": "88",
+  "attributes[Agility]": "94",
+  "attributes[Intelligence]": "85",
+  "attributes[Wisdom]": "78",
+  "attributes[Charisma]": "91",
+  "attributes[Armor Type]": "Cloth",
+  "attributes[Weapon]": "Feather Spear"
+}

@@ -1,0 +1,14 @@
+{
+  "tokenID": "2",
+  "name": "Ethereal Enchantress",
+  "description": "The Ethereal Enchantress is a vision of grace and majesty, combining the elegance of royalty with the mystique of ancient magic. Adorned in golden-trimmed white robes and regal adornments, she embodies the purity and power of a celestial being. This digital artwork encapsulates her ethereal beauty and the timeless allure of fantasy.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/03.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/03.jpg",
+  "attributes[Strength]": "65",
+  "attributes[Agility]": "72",
+  "attributes[Intelligence]": "92",
+  "attributes[Wisdom]": "90",
+  "attributes[Charisma]": "83",
+  "attributes[Armor Type]": "Cloth",
+  "attributes[Weapon]": "None"
+}

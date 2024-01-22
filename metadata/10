@@ -1,0 +1,14 @@
+{
+  "tokenID": "10",
+  "name": "Emelien, the Arcane Enchanter",
+  "description": "Emelien wields the mysteries of the arcane with a poise that belies her formidable power. Clad in robes that blend regal majesty with the wisdom of the sages, she commands the forces of magic to bend at her will. This artwork captures her with her staff of power, a beacon to those who seek the ancient truths.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/11.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/11.jpg",
+  "attributes[Strength]": "72",
+  "attributes[Agility]": "80",
+  "attributes[Intelligence]": "88",
+  "attributes[Wisdom]": "85",
+  "attributes[Charisma]": "86",
+  "attributes[Armor Type]": "Enchanted Robe",
+  "attributes[Weapon]": "Orb of Dominion"
+}

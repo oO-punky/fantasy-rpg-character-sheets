@@ -1,0 +1,14 @@
+{
+  "tokenID": "16",
+  "name": "Seraphina, the Lightbringer",
+  "description": "Seraphina, the Lightbringer, radiates the serenity and power of the celestial realms. Clad in flowing robes with golden trim and bearing a scepter imbued with a crystal of the purest azure, she is a beacon of hope and guidance. This artwork captures the essence of her divine presence and the ethereal grace with which she walks the mortal lands.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/17.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/17.jpg",
+  "attributes[Strength]": "74",
+  "attributes[Agility]": "82",
+  "attributes[Intelligence]": "91",
+  "attributes[Wisdom]": "87",
+  "attributes[Charisma]": "90",
+  "attributes[Armor Type]": "Celestial Robes",
+  "attributes[Weapon]": "Azure Crystal"
+}

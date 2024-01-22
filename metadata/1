@@ -1,0 +1,14 @@
+{
+  "tokenID": "1",
+  "name": "Guardian of the North",
+  "description": "The Guardian of the North is a formidable orc warrior, armed with a fearsome blade and adorned with battle-worn armor. His presence commands respect and his prowess in battle is legendary across the lands. This artwork celebrates the rich lore of fantasy worlds where might and magic rule.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/02.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/02.jpg",
+  "attributes[Strength]": "95",
+  "attributes[Agility]": "90",
+  "attributes[Intelligence]": "60",
+  "attributes[Wisdom]": "65",
+  "attributes[Charisma]": "55",
+  "attributes[Armor Type]": "Heavy Plate",
+  "attributes[Weapon]": "Enchanted Sword"
+}

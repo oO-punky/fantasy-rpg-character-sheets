@@ -1,0 +1,14 @@
+{
+  "tokenID": "9",
+  "name": "Celestia, Guardian of the Ethereal Realms",
+  "description": "Celestia stands as the paragon of grace and beauty, her armor a testament to the artistry of the ethereal realms. Adorned in gold that captures the very essence of sunlight, she is both a beacon of hope and a formidable protector.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/10.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/10.jpg",
+  "attributes[Strength]": "70",
+  "attributes[Agility]": "73",
+  "attributes[Intelligence]": "90",
+  "attributes[Wisdom]": "88",
+  "attributes[Charisma]": "85",
+  "attributes[Armor Type]": "Enchanted Golden Robe",
+  "attributes[Weapon]": "Staff"
+}

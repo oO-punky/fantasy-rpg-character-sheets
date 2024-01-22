@@ -1,0 +1,14 @@
+{
+  "tokenID": "11",
+  "name": "Lyriana of the Silverwood",
+  "description": "Lyriana, a sentinel of the Silverwood, stands with a serene grace. Garbed in armor that blends with the forest's hues, she is a protector of her people and a silent watcher over the woods. Her bow, a family heirloom, has whispers of ancient magic. This artwork captures her poised elegance and the detailed craftsmanship of her gear.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/12.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/12.jpg",
+  "attributes[Strength]": "75",
+  "attributes[Agility]": "90",
+  "attributes[Intelligence]": "85",
+  "attributes[Wisdom]": "88",
+  "attributes[Charisma]": "84",
+  "attributes[Armor Type]": "Enchanted Bow",
+  "attributes[Weapon]": "Elven Leather"
+}

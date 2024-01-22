@@ -1,0 +1,14 @@
+{
+  "tokenID": "4",
+  "name": "Dwarven Lord Masbaerel",
+  "description": "Masbaerel, the Dwarven Lord, stands as a stoic guardian of the mountain realms. Clad in his ancestral armor, forged from the heart of the earth, he wields his sword with unmatched skill. This artwork embodies the resilience and the proud heritage of the dwarven people.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/05.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/05.jpg",
+  "attributes[Strength]": "92",
+  "attributes[Agility]": "85",
+  "attributes[Intelligence]": "80",
+  "attributes[Wisdom]": "80",
+  "attributes[Charisma]": "80",
+  "attributes[Armor Type]": "Dwarven Steel",
+  "attributes[Weapon]": "Masterwork Sword"
+}

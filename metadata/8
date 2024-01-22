@@ -1,0 +1,14 @@
+{
+  "tokenID": "8",
+  "name": "Bjorn Ironside",
+  "description": "Bjorn Ironside, the storied champion of the Northern Clans, stands ready for battle. His armor, adorned with the symbols of his people, reflects a heritage of strength and valor. This digital artwork captures Bjorn's fierce determination and the intricate details of his war gear.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/09.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/09.jpg",
+  "attributes[Strength]": "91",
+  "attributes[Agility]": "84",
+  "attributes[Intelligence]": "78",
+  "attributes[Wisdom]": "78",
+  "attributes[Charisma]": "80",
+  "attributes[Armor Type]": "Engraved Steel",
+  "attributes[Weapon]": "Battle Axe"
+}

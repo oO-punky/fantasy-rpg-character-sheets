@@ -1,0 +1,14 @@
+{
+  "tokenID": "19",
+  "name": "Valiant Elven Champion",
+  "description": "This valiant elven champion, a sentinel of the Golden Bastion, is resplendent in gleaming armor adorned with the majestic symbols of an ancient lineage. Brandishing a sword of the finest elvish steel, he stands ever ready to defend the sanctity of his enchanted realm. The artwork captures the essence of his nobility and the unwavering spirit of a warrior born.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/20.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/20.jpg",
+  "attributes[Strength]": "90",
+  "attributes[Agility]": "88",
+  "attributes[Intelligence]": "85",
+  "attributes[Wisdom]": "85",
+  "attributes[Charisma]": "86",
+  "attributes[Armor Type]": "Elvish Golden Plate",
+  "attributes[Weapon]": "Elvish Steel Sword"
+}

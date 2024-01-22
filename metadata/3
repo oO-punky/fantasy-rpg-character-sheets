@@ -1,0 +1,14 @@
+{
+  "tokenID": "3",
+  "name": "Elven Warrior of the East",
+  "description": "The Elven Warrior of the East stands tall, a master of both blade and bow, his armor as much a work of art as it is a protection in battle. With keen eyes and an unyielding will, he defends his ancient homelands with a quiet intensity. This digital portrait captures his formidable presence and the fine details of his ornate gear.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/04.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/04.jpg",
+  "attributes[Strength]": "85",
+  "attributes[Agility]": "95",
+  "attributes[Intelligence]": "80",
+  "attributes[Wisdom]": "70",
+  "attributes[Charisma]": "80",
+  "attributes[Armor Type]": "Elven Crafted Chainmail",
+  "attributes[Weapon]": "Enchanted Broad Sword"
+}

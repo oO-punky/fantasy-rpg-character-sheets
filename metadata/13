@@ -1,0 +1,14 @@
+{
+  "tokenID": "13",
+  "name": "Taheton, Sentinel of the Eastern Borders",
+  "description": "Taheton, the vigilant Sentinel of the Eastern Borders, stands ready to defend his realm. With a spear that has felled countless foes and armor that has turned away many blows, his watch is unyielding. This digital art captures Taheton's resolve and the intricate detail of his battle gear.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/14.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/14.jpg",
+  "attributes[Strength]": "85",
+  "attributes[Agility]": "90",
+  "attributes[Intelligence]": "88",
+  "attributes[Wisdom]": "82",
+  "attributes[Charisma]": "83",
+  "attributes[Armor Type]": "Reinforced Leather",
+  "attributes[Weapon]": "War Spear"
+}

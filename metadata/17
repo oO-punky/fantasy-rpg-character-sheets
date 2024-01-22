@@ -1,0 +1,14 @@
+{
+  "tokenID": "17",
+  "name": "Eldor of the Azure Spire",
+  "description": "Eldor, mage of the Azure Spire, stands with a commanding presence, his staff channeling the boundless energies of the sky. Robed in the sacred colors of the heavens, he is a custodian of the celestial wisdom passed down through generations of spellweavers. This artwork captures the tranquility and concentration as he invokes an ancient incantation.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/18.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/18.jpg",
+  "attributes[Strength]": "78",
+  "attributes[Agility]": "84",
+  "attributes[Intelligence]": "90",
+  "attributes[Wisdom]": "85",
+  "attributes[Charisma]": "82",
+  "attributes[Armor Type]": "Arcane Weave",
+  "attributes[Weapon]": "Skyforged"
+}

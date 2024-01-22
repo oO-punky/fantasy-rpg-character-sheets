@@ -1,0 +1,14 @@
+{
+  "tokenID": "7",
+  "name": "Thane Andvar",
+  "description": "Thane Andvar, ruler of the Golden Halls, stands resolute in his regal armor, etched with runes of power. A leader of dwarves, his wisdom is as profound as the depths of the mountains he calls home. This digital artwork captures the essence of Andvar's noble spirit and the grandeur of his kingdom.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/08.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/08.jpg",
+  "attributes[Strength]": "89",
+  "attributes[Agility]": "87",
+  "attributes[Intelligence]": "80",
+  "attributes[Wisdom]": "87",
+  "attributes[Charisma]": "85",
+  "attributes[Armor Type]": "Runed Light Plate",
+  "attributes[Weapon]": "Light Sword"
+}

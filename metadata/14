@@ -1,0 +1,14 @@
+{
+  "tokenID": "14",
+  "name": "Eldritch Sorcerer of the Ivory Tower",
+  "description": "The Eldritch Sorcerer, a figure of mystique and power, stands clad in robes of the purest white, edged with the gold of ancient lore. In one hand, a staff crowned with a relic of sapphire, a testament to his mastery over the arcane arts. This artwork captures the essence of a mage whose knowledge is as boundless as the library of the Ivory Tower.",
+  "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/15.jpg",
+  "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/15.jpg",
+  "attributes[Strength]": "75",
+  "attributes[Agility]": "80",
+  "attributes[Intelligence]": "87",
+  "attributes[Wisdom]": "87",
+  "attributes[Charisma]": "85",
+  "attributes[Armor Type]": "Enchanted Silk",
+  "attributes[Weapon]": "Sapphire Orb"
+}
