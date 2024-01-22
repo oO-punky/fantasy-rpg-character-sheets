@@ -1,14 +1,16 @@
 {
   "tokenID": "0",
-  "name": "Oren Arde",
-  "description": "Oren Arde is a character of valor and strength, depicted as a formidable warrior with intricate armor and a powerful stance. This digital artwork captures the essence of a fantasy realm where heroes wield ancient weapons and mystical forces come to life.",
+  "name": "Aqua Celestia",
+  "description": "Aqua Celestia, draped in robes of the ocean's hue, is the embodiment of water's grace. Her gaze, as deep as the sea, carries the tranquility of still waters and the might of stormy waves. Flowers entwined in her flowing hair whisper of life's essence, marking her as the sovereign guardian of the aquatic world.",
   "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/01.jpg",
   "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/01.jpg",
-  "attributes[Strength]": "100",
-  "attributes[Agility]": "85",
-  "attributes[Intelligence]": "70",
-  "attributes[Wisdom]": "75",
-  "attributes[Charisma]": "85",
-  "attributes[Armor Type]": "Leather",
-  "attributes[Weapon]": "Ancient Axe"
+  "attributes": {
+    "Strength": "60",
+    "Agility": "85",
+    "Intelligence": "90",
+    "Wisdom": "85",
+    "Charisma": "88",
+    "Armor Type": "Enchanted Robe",
+    "Weapon": "Orb of Tranquility"
+  }
 }
