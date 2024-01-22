@@ -5,10 +5,11 @@
   "image": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/01.jpg",
   "file_name": "https://raw.githubusercontent.com/oO-punky/fantasy-rpg-character-sheets/main/01.jpg",
   "attributes": {
-    "Strength": "60",
-    "Agility": "85",
-    "Intelligence": "90",
-    "Wisdom": "85",
+    "Strength": "70",
+    "Agility": "83",
+    "Constitution": "75",
+    "Intelligence": "93",
+    "Wisdom": "86",
     "Charisma": "88",
     "Armor Type": "Enchanted Robe",
     "Weapon": "Orb of Tranquility"
